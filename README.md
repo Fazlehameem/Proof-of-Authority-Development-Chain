@@ -60,4 +60,4 @@ Click on TX Status to confirm the transaction
 
 [TX_Status](Screenshots/MyCrypto.png)
 
-Congratulations! The assignment has been successful 
+Congratulations! The assignment is completed successfully.
