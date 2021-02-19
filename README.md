@@ -17,7 +17,7 @@ Step 1: Puppeth
 
 a.) Open Gitbash for Windows user and change directory to the folder you've downloaded the Goethereum. 
 b.) Type in the following code ./puppeth
-c.) Follow the steps in the picture below 
+c.) Follow the steps in the picture below [Puppeth](Screenshots/Puppeth_02.png)
 
 Step 2: Geth
 
