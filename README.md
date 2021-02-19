@@ -45,7 +45,7 @@ Open MyCrypto app
 Change network to your custom network
 
 [Setup_Customnode](Screenshots/Custom_Node.png)
-Follow the steps. You can find the chain id at your network.json folder 
+Follow the steps. You can find the chain id in your network.json folder 
 
 After completing the above step, go to Keystore File and add your key from node1 folder 
 
